@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js"
+    "testAPI": "cucumber-js"
   },
   "devDependencies": {
-    "@cucumber/cucumber": "^9.1.2"
+    "@cucumber/cucumber": "^9.1.2",
+    "axios": "^1.4.0"
   }
 }
